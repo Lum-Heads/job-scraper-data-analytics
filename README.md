@@ -1,6 +1,6 @@
 # scraping
 ## Job Scraping
-Job Scraping from LinkedIn and Indeed. (In development).
+Scrapes out job post from LinkedIn and Indeed. 
 
 # Usage
 Run `python __init__.py`
